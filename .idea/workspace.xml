@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2241b11f-0b27-4e58-9c3a-d15be03c3a18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/1002_find_common_characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2241b11f-0b27-4e58-9c3a-d15be03c3a18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/884_uncommon_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="210">
+              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/1260_shitf_2D_grid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="15" selection-start-line="15" selection-end-line="36" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -90,13 +96,14 @@
         <option value="$PROJECT_DIR$/leetcode/1002_find_common_characters.py" />
         <option value="$PROJECT_DIR$/leetcode/1122_relative_sort_array.py" />
         <option value="$PROJECT_DIR$/leetcode/884_uncommon_words.py" />
+        <option value="$PROJECT_DIR$/leetcode/1260_shitf_2D_grid.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="408" />
+    <option name="x" value="583" />
     <option name="y" value="23" />
-    <option name="width" value="1024" />
+    <option name="width" value="849" />
     <option name="height" value="836" />
   </component>
   <component name="ProjectView">
@@ -146,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.884_uncommon_words">
+  <component name="RunManager" selected="Python.1260_shitf_2D_grid">
     <configuration name="1002_find_common_characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bitsofwork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,6 +217,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1260_shitf_2D_grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bitsofwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/1260_shitf_2D_grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="884_uncommon_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bitsofwork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,34 +259,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chrysalisAlgo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bitsofwork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CCalgo/chrysalisAlgo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1260_shitf_2D_grid" />
         <item itemvalue="Python.884_uncommon_words" />
         <item itemvalue="Python.1122_relative_sort_array" />
         <item itemvalue="Python.1002_find_common_characters" />
         <item itemvalue="Python.1160_find_words" />
-        <item itemvalue="Python.chrysalisAlgo" />
       </list>
     </recent_temporary>
   </component>
@@ -284,10 +291,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="408" y="23" width="1024" height="836" extended-state="0" />
+    <frame x="583" y="23" width="849" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15376782" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18711276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -414,8 +421,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/884_uncommon_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="210">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/1260_shitf_2D_grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="15" selection-start-line="15" selection-end-line="36" selection-end-column="17" />
         </state>
       </provider>
     </entry>
